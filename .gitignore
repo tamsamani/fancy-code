@@ -1,0 +1,15 @@
+#ignore files
+
+
+#huge than manipulate
+node_modules/
+
+#force ignored
+ig_*
+ig_*/*
+
+#sensitive
+.env
+
+#none used
+.log

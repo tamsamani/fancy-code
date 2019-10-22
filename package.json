@@ -1,11 +1,12 @@
 {
+	"type": "module",
 	"name": "fancy-code",
 	"version": "0.0.1",
 	"description": "a fancy code to make good scripts",
 	"main": "index.js",
 	"scripts": {
-		"start": "node index.js"
+		"start": "node --experimental-modules index.js"
 	},
 	"author": "tamsamani <tamsmoha@gmail.com>",
-	"license": "none"
+	"license": "None"
 }
