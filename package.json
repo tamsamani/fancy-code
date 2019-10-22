@@ -1,0 +1,8 @@
+{
+  "name": "fancy-code",
+  "version": "0.0.1",
+  "description": "a fancy code to make good scripts",
+  "main": "index.js",
+  "author": "tamsamani <tamsmoha@gmail.com>",
+  "license": "none"
+}
